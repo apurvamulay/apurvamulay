@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋, I'm Apurva Mulay 
+
+
+
+
 
 <!--
 **apurvamulay/apurvamulay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+:books: I’m currently Graduate Student in Computer Science at Syracuse University.
+
+🔭 I am currently researching on Machine Learning on Graphs
+
+📫 How to reach me: [![Linkedin ](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/apurva-mulay/)](https://www.linkedin.com/in/apurva-mulay/)
+
+:arrow_heading_down: Check below to learn more about my projects
+
+
+
+
+
+
