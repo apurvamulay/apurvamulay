@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:books: I’m currently Graduate Student in Computer Science at Syracuse University and seeking SDE positions
+:books: I’m Graduate Student in Computer Science at Syracuse University and seeking SDE positions
 
-🔭 I am currently working on Machine Learning on Graphs
+🔭 I am currently researching on Machine Learning on Graphs
 
 📫 How to reach me: [![Linkedin ](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/apurva-mulay/)](https://www.linkedin.com/in/apurva-mulay/)
 
