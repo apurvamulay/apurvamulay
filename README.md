@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:books: I’m Graduate Student in Computer Science at Syracuse University and seeking SDE positions
+:books: I’m Graduate Student in Computer Science at Syracuse University
 
 🔭 I am currently researching on Machine Learning on Graphs
 
