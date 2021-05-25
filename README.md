@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:books: Graduated with Research based Master's degree in Computer Science at Syracuse University with Thesis in Graph Representational Learning
+:books: Graduated with Research based Master's degree in Computer Science at Syracuse University with Thesis in Graph Mining and ML
 
 🔭 I am currently researching on Machine Learning on Graphs
 
