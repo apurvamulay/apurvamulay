@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:books: Currently working as Data Scientist at Mediaocean. Graduated with Research based Master's degree in Computer Science at Syracuse University
+:books: Currently working as Software Engineer - ML at Mediaocean. Graduated with Research based Master's degree in Computer Science at Syracuse University
 
 🔭 I am currently researching on Machine Learning on Graphs
 
