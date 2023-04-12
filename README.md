@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 :books: Currently working as Software Engineer - ML at Mediaocean. Graduated with Research based Master's degree in Computer Science at Syracuse University
 
-🔭 I am currently researching on Machine Learning on Graphs
+🔭 I am currently researching on Machine Learning on Graphs. Check my [thesis](https://surface.syr.edu/thesis/527/)
 
 📫 How to reach me: [![Linkedin ](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/apurva-mulay/)](https://www.linkedin.com/in/apurva-mulay/)
 
