@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:books: Currently working as Lead Software Engineer - ML at Mediaocean. Graduated with a Research-based Master's degree in Computer Science at Syracuse University. I hail from Pune known as the "Oxford of the East". 
+:books: Currently working as Senior Software Engineer - ML at Mediaocean. Graduated with a Research-based Master's degree in Computer Science at Syracuse University. I hail from Pune known as the "Oxford of the East". 
 
 🔭 I am currently researching on Machine Learning on Graphs. Check my [thesis](https://surface.syr.edu/thesis/527/)
 
